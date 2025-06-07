@@ -12,7 +12,6 @@ A modern, responsive, and high-converting landing page for a SaaS product built 
 - ✨ Smooth animations and transitions
 
 ## 📸 Demo
-![Screenshot](./screenshot.png)  
 <img width="934" alt="Screenshot 2025-06-07 143541" src="https://github.com/user-attachments/assets/4706608b-aa77-4ae6-970c-a83e589505f5" />
 
 
@@ -67,4 +66,4 @@ This project is licensed under the MIT License – see the [LICENSE](./LICENSE) 
 
 ---
 
-**Created by [Robel]
+Created by [Robel]
