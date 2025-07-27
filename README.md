@@ -7,7 +7,7 @@ A modern, responsive, and high-converting landing page for a SaaS product built 
 
 - ⚡ Lightning-fast and fully responsive
 - 🎯 Conversion-focused layout
-- 💅 Styled using Tailwind CSS (or your CSS framework of choice)
+- 💅 Styled using Tailwind CSS 
 - 🧩 Reusable and modular components
 - ✨ Smooth animations and transitions
 
@@ -18,7 +18,7 @@ A modern, responsive, and high-converting landing page for a SaaS product built 
 ## 🛠️ Built With
 
 - [React.js](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/) (or mention the framework you used)
+- [Tailwind CSS](https://tailwindcss.com/) 
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ Follow these steps to run the project locally:
 
 ### Prerequisites
 
-* Node.js >= 14.x
+* Node.js
 * npm or yarn
 
 ### Installation
